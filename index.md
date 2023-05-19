@@ -2,7 +2,7 @@
 layout: page
 full_logo: true
 title: Home
-subtitle: About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
+subtitle: About Me (CV).
 description: A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
 sitemap:
   priority: 1.0
