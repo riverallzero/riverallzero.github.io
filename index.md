@@ -9,7 +9,7 @@ sitemap:
 ---
 
 <div style="display: flex;">
-  <div style="flex-basis: 50%;">
+  <div style="flex-basis: 40%;">
     <h3>인적사항</h3>
     <table>
       <tr>
@@ -26,7 +26,8 @@ sitemap:
       </tr>
     </table>
   </div>
-  <div style="flex-basis: 50%;">
+
+  <div style="flex-basis: 60%;">
     <h3>학력사항</h3>
     <table>
       <tr>
