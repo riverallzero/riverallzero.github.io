@@ -16,7 +16,7 @@
 
 - name: LMS Notion
   id: p3
-  img_src: /assets/img/project-lmsnotion.png
+  img_src: /assets/img/project-lmsnotion.jpg
   description_less: 강의, 레포트, 퀴즈 수행 여부 알림봇
   action_buttons: >
     <a href="https://github.com/riverallzero/LmsNotionBot" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp GitHub</a>
