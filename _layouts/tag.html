@@ -10,16 +10,3 @@ layout: page
 {% else %}
     <p>No posts with this tag.</p>
 {% endif %}
-
-
-
-<h1>Projects</h1>
-<br>
-
-{% assign projects = site.data.projects | where: 'tags', page.tag %}
-
-{% if projects[0] %}
-    {% include project/project_loop.html %}
-{% else %}
-    <p>No projects with this tag.</p>
-{% endif %}
