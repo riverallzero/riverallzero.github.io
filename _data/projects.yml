@@ -1,6 +1,6 @@
 - name: 학과 학생회 웹사이트 개발
   id: p1
-  img_src: /assets/img/project_coucilweb.png
+  img_src: /assets/img/project_councilweb.png
   description_less: Django 베이스 사이트 구현
   description_more:
   action_buttons: >
