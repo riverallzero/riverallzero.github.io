@@ -52,8 +52,7 @@ blockquote {
 }
 
 .post_wrapper {
-  max-width: 90%;
-  /*max-width: 800px;*/
+  max-width: 100%;
   margin: 60px auto;
 }
 
