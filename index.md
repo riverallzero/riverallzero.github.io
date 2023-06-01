@@ -12,26 +12,26 @@ sitemap:
 
 ---
 
-<h4 style="color:#16a085"><strong>학력사항</strong></h3>
+<h4 style="color:#16a085"><strong>학력사항</strong></h4>
 
 <code>🎓 2018.03-2021.02 : 양현고등학교</code><br>
 <code>🎓 2021.03-2025.02 : 전북대학교 스마트팜학과</code><br>
 
 
-<h4 style="color:#16a085"><strong>활동내역</strong></h3>
+<h4 style="color:#16a085"><strong>활동내역</strong></h4>
 
-#### | 챗GPT MS애저톤 - 공모전
+<strong>| 챗GPT MS애저톤 - 공모전</strong>
   - 기간 : 2023.04-2023.05 
   - 내용 : ChatGPT API를 활용한 서비스 ( 명함-연락처 변환 챗봇 ) 개발 
   - 결과 : 서비스 특별상 수상 
 
 
-#### | LG Aimers 2기 - LG AI 연구원
+<strong>| LG Aimers 2기 - LG AI 연구원</strong>
   - 기간 : 2023.01-2023.03 
   - 내용 : 온라인 교육 & 스마트 공장 제품 품질 상태 분류 AI 온라인 해커톤
   - 결과 : Public Score 5등 / Private Score 135등 
 
-#### | 전북대학교 스마트디지털농업연구실
+<strong>| 전북대학교 스마트디지털농업연구실</strong>
   - 기간 : 2022.02-2022.11
   - 내용 : 학부연구생 ( 데이터 분석 및 머신러닝 기반 모델링 )
 
