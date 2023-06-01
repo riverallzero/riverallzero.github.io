@@ -8,15 +8,15 @@ sitemap:
   priority: 1.0
 ---
 
-#### 안녕하세요. 강다영입니다 👋
+<h4 style="color:#16a085"><strong>소개</strong></h4>
+
+#### 안녕하세요. 강다영입니다. 👋
+
+<code>🎓 양현고등학교(2018) | 전북대학교 스마트팜학과(2021)</code><br>
+<code>🆅 Velog: [@riverallzero](https://velog.io/@riverallzero)</code><br>
+<code>🅳 Dacon: [@riverallzero](https://dacon.io/myprofile/452547/home)</code><br>
 
 ---
-
-<h4 style="color:#16a085"><strong>학력사항</strong></h4>
-
-<code>🎓 2018.03-2021.02 : 양현고등학교</code>
-<code>🎓 2021.03-2025.02 : 전북대학교 스마트팜학과</code><br>
-
 
 <h4 style="color:#16a085"><strong>활동내역</strong></h4>
 
@@ -24,7 +24,6 @@ sitemap:
   - 기간 : 2023.04-2023.05 
   - 내용 : ChatGPT API를 활용한 서비스 ( 명함-연락처 변환 챗봇 ) 개발 
   - 결과 : 서비스 특별상 수상 
-
 
 <strong>| LG Aimers 2기 - LG AI 연구원</strong>
   - 기간 : 2023.01-2023.03 
