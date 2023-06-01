@@ -1,7 +1,7 @@
 - name: 명함-연락처 변환 서비스
   id: p1
   img_src: /assets/img/project_namecard.png
-  description_less: 명함 이미지로 연락처 파일을 생성
+  description_less: 명함 이미지로 연락처 파일 생성
   description_more: MS Azure의 Computer Vision API와 OpenAI의 ChatGPT API를 이용해 만든 모델을 Telegram Bot을 통해 제공한다. 텔레그램 봇에 이미지를 첨부하면 연락처 파일을 회신한다. 이를 클릭하면 연락처에 저장 가능하다.
   action_buttons: >
     <a href="https://github.com/riverallzero/MSAzureThon" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp GitHub</a>
