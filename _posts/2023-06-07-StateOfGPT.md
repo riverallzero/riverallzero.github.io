@@ -6,7 +6,6 @@ splash_img_source: /assets/img/post_gpt.png
 splash_img_caption: Representative Image
 ---
 
-## Summarize : 2023 Microsoft Build-State of GPT
 - Session: State of GPT [[Go](https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2)]
 - Speaker: Andrej Karpathy. OpenAI
 - Date: 2023.05.24
