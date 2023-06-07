@@ -7,13 +7,10 @@ author_profile: true
 search: true
 ---
 
-## 소개
-
 안녕하세요. 강다영입니다. 👋<br>
 
 <code>🎓 전북대학교 스마트팜학과</code> <code>👩‍💻 MachineLearning | DeepLearning</code><br>
 
----
 
 ## 활동내역
 ##### | 챗GPT MS애저톤 - 공모전
@@ -21,7 +18,6 @@ search: true
   - 내용 : ChatGPT API를 활용한 서비스 ( 명함-연락처 변환 챗봇 ) 개발 
   - 결과 : 서비스 특별상 수상 
   - GitHub - [MSAzureThon](https://github.com/riverallzero/MSAzureThon)
-
 
 ##### | LG Aimers 2기 - LG AI 연구원 
   - 기간 : 2023.01-2023.03
