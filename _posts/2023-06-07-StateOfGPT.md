@@ -6,9 +6,7 @@ splash_img_source: /assets/img/post_gpt.png
 splash_img_caption: Representative Image
 ---
 
-- Session: State of GPT [[Go](https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2)]
-- Speaker: Andrej Karpathy. OpenAI
-- Date: 2023.05.24
+Andrej Karpathy. (OpenAI)의 2023 Microsoft Build - [State of GPT](https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2) 세션을 요약 정리한 글 입니다.
 
 ### GPT Assistant training pipeline
 본 세션은 GPT assistant의 훈련 방법과 이 assistant를 애플리케이션에 효과적으로 사용할 수 있는 방법을 살펴보는 두 부분으로 나누어집니다. Assistant를 훈련하는 지금까지의 방법은 사전 훈련, 감독에 의한 미세 조정, 보상 모델링, 강화 학습의 네 가지 주요 단계이며, 이들은 순차적으로 이어지고 각 단계를 지원하는 데이터 세트, 신경망 알고리즘, 결과인 모델을 가지고 있습니다. 사전 훈련 단계에서 기본적으로 모든 계산 직업이 이루어져 훈련 연산 시간의 99%를 차지하고, 수천개의 GPU로 수개월의 훈련이 필요합니다. 이 다음 세가지 단계는 이를 더 미세하게 조정하는 것 입니다.
