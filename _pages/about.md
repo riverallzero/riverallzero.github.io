@@ -20,7 +20,6 @@ search: true
 - 기간 : 2023.05.22-2023.06.06
 - 주최 : 전북대학교 SW중심대학사업단
 - 내용 : 책 커버(이미지와 제목) 정보가 주어질 때, 책의 장르를 분류하는 문제해결
-- 모델 : [Img2Prompt, XLM-roBERT, XLNet](https://github.com/riverallzero/BookGenre-Classification)
 - 결과 : Public Score 5등 / Private Score 5등 
 
 ##### | 챗GPT MS애저톤
