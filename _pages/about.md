@@ -3,6 +3,7 @@ layout: single
 title: "About"
 permalink: /about/
 toc: true
+toc_sticky: true
 author_profile: true
 search: true
 ---

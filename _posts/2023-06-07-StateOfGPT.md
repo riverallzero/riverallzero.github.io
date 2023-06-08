@@ -4,6 +4,7 @@ title: "2023 Microsoft Build-State of GPT"
 categories: AI
 tag: [gpt, session, microsoft]
 toc: true
+toc_sticky: true
 author_profile: true
 search: true
 ---
