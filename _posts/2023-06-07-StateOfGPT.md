@@ -6,7 +6,6 @@ tag: [gpt, session, microsoft]
 toc: true
 author_profile: true
 search: true
-comment: true
 ---
 
 Andrej Karpathy. (OpenAI)의 2023 Microsoft Build - [State of GPT](https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2) 세션을 요약 정리한 글 입니다.
