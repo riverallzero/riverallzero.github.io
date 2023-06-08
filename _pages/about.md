@@ -41,5 +41,5 @@ search: true
 
 ##### | 전북대학교 스마트디지털농업연구실 
 - 기간 : 2022.02-2022.11
-- 2022 추계 작물학회 학술발표 - [밀 생산량 예측을 위한 데이터 중요도 분석 및 주요 조사항목 선정](https://github.com/riverallzero/WheatYieldModel)
-- 2022 추계 원예학회 학술발표 - [XGBoost 기반 중요 주간 판별을 통한 파프리카 품종별 생산량 예측 모델 개발](https://github.com/riverallzero/PaprikaYieldModel)
+- 추계 작물학회 학술발표 - [밀 생산량 예측을 위한 데이터 중요도 분석 및 주요 조사항목 선정](https://github.com/riverallzero/WheatYieldModel)
+- 추계 원예학회 학술발표 - [XGBoost 기반 중요 주간 판별을 통한 파프리카 품종별 생산량 예측 모델 개발](https://github.com/riverallzero/PaprikaYieldModel)
