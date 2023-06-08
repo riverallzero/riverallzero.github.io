@@ -26,12 +26,11 @@ search: true
 
 ##### | 전북대학교 스마트디지털농업연구실 
 - 기간 : 2022.02-2022.11
-1. 2022 추계 작물학회 학술발표 
-- 주제 : 밀 생산량 예측을 위한 데이터 중요도 분석 및 주요 조사항목 선정 
-- 결과(주요 조사항목) : 개화기 이후 4주차의 SPAD 및 잎의 너비, 개화기의 잎 너비, LAI, 개화기 이후 2주차의 LAI
-- GitHub - [WheatYieldModel](https://github.com/riverallzero/WheatYieldModel)
-
-2. 2022 추계 원예학회 학술발표
-- 주제 :  XGBoost 기반 중요 주간 판별을 통한 파프리카 품종별 생산량 예측 모델 개발 
-- 결과(R2, MAE) : 적색(0.68, 0.95), 황색(0.68, 0.59), 주황색(0.82, 0.29)   
-- GitHub - [PaprikaYieldModel](https://github.com/riverallzero/PaprikaYieldModel)
+- 2022 추계 작물학회 학술발표 
+   - 주제 : 밀 생산량 예측을 위한 데이터 중요도 분석 및 주요 조사항목 선정 
+   - 결과(주요 조사항목) : 개화기 이후 4주차의 SPAD 및 잎의 너비, 개화기의 잎 너비, LAI, 개화기 이후 2주차의 LAI
+   - GitHub - [WheatYieldModel](https://github.com/riverallzero/WheatYieldModel)
+- 2022 추계 원예학회 학술발표
+   - 주제 :  XGBoost 기반 중요 주간 판별을 통한 파프리카 품종별 생산량 예측 모델 개발 
+   - 결과(R2, MAE) : 적색(0.68, 0.95), 황색(0.68, 0.59), 주황색(0.82, 0.29)   
+   - GitHub - [PaprikaYieldModel](https://github.com/riverallzero/PaprikaYieldModel)
