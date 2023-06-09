@@ -21,7 +21,7 @@ search: true
 - 기간 : 2023.05.22-2023.06.06
 - 주최 : 전북대학교 SW중심대학사업단
 - 내용 : 책 커버이미지와 제목을 이용한 장르 분류 해커톤
-- 결과 : Public Score 5등 / Private Score 5등 
+- 결과 : 은상, Public Score 5등 / Private Score 5등 
 
 ##### | 챗GPT MS애저톤
 - 기간 : 2023.04-2023.05
