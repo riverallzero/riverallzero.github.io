@@ -16,7 +16,7 @@ Education
 * B.S. in Computer Science and Engineering & SmartFarm, Jeonbuk National University
   * Mar 2021 - Feb 2025, GPA: 4.14/4.50
 
-Work experience
+Research experience
 ======
 
 * [Medical AI & Computational Science Lab](https://jbnu.macs.or.kr/), Jeonbuk National University

@@ -11,7 +11,7 @@ I am a Master's student in the [Department of Electrical Engineering and Compute
 My primary research interests are multimodal AI and agentic AI.
 My current focus is on building agentic reasoning systems that improve through interaction, feedback, and experience.
 
-I received my B.S. degree of Engineering and Science from [Jeonbuk National University](https://www.jbnu.ac.kr/en/index.do) in 2024.
+I received my B.S. degree of Engineering and Science from [Jeonbuk National University](https://www.jbnu.ac.kr/en/index.do) in 2025.
 While majoring in Smart Farm and conducting research in digital agriculture, my interest in AI grew, which led me to add a double major in Computer Science and Engineering.
 Through this path, I gained AI research experience across multiple domains, including agriculture, medicine, and science.
 
