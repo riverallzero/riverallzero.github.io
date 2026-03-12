@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student in the [Department of Electrical Engineering and Computer Science (EECS)](https://www.dgist.ac.kr/en_eecs/) at the [Daegu Gyeongbuk Institute of Science & Technology (DGIST)](https://www.dgist.ac.kr/). Also I am a member of the [Distributed AI Lab](https://sites.google.com/view/distributed-ai-lab), advised by Prof. Jinhyun So.
+I am a Master's student in the [Department of Electrical Engineering and Computer Science (EECS)](https://www.dgist.ac.kr/en_eecs/) at the [Daegu Gyeongbuk Institute of Science & Technology (DGIST)](https://www.dgist.ac.kr/). Also I am a member of the [CORE-AI Lab](https://sites.google.com/view/distributed-ai-lab), advised by Prof. Jinhyun So.
 My primary research interests are multimodal AI and agentic AI.
-My current focus is on building agentic reasoning systems that improve through interaction, feedback, and experience.
 
 I received my B.S. degree of Engineering and Science from [Jeonbuk National University](https://www.jbnu.ac.kr/en/index.do) in 2025.
 While majoring in Smart Farm and conducting research in digital agriculture, my interest in AI grew, which led me to add a double major in Computer Science and Engineering.
