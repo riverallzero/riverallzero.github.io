@@ -17,7 +17,7 @@ Through this path, I gained AI research experience across multiple domains, incl
 News
 ======
 - [Feb 2026] Paper "AROMMA: Unifying Olfactory Embeddings for Single Molecules and Mixtures" has been accepted in **IEEE ICASSP 2026**!
-- [Feb 2025] Joined [Distributed AI Lab](https://sites.google.com/view/distributed-ai-lab) as a M.S. student.
+- [Feb 2025] Joined [CORE-AI Lab](https://sites.google.com/view/distributed-ai-lab) as a M.S. student.
 
 Publications
 ======
