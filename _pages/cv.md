@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://cvws.icloud-content.com/B/AQiNkbQ7ctfUK20HFsIGw8u3gfPAAd1MzCMEz9RHdZNdEAaKRzOBKoez/resume.pdf?o=Apv3ADfaMfat3TUJVbBqI3nWHRJJkpK5m-rn_D0QBj-2&v=1&x=3&a=CAog_ynD6hO-c2uhKcuVxQyYkt4L16a-VFY_xDZ2O2veCdISbxCi-r2zzzMYoteZtc8zIgEAUgS3gfPAWgSBKoezaidvoK2CHWotuI0K5JhoQRUFrC3PES7jQ9-lkbMQa2wo1qq_FenFNfByJ-XSC40GJOHoA_hvROyoSsPJJKKJZvll9E2qbjlvEZ5GeRZmHm0wyg&e=1773664627&fl=&r=48d10e9d-4fdb-45dc-9370-e4912d0bd0c4-1&k=y3vlVdwRJVq75Hc5bxtxIg&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=166&s=B2CRBn6Ay2TswqPews1eqJgyn68&cd=i" target="_blank" rel="noopener noreferrer"><i class="fa fa-download" aria-hidden="true"></i>Download PDF</a>
-
+<a href="{{ base_path }}/files/resume.pdf" target="_blank" rel="noopener noreferrer"><i class="fa fa-download" aria-hidden="true"></i>Download PDF</a>
 
 Education
 ======
