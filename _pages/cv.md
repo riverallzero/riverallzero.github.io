@@ -9,7 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="{{ base_path }}/files/resume.pdf" target="_blank" rel="noopener noreferrer"><i class="fa fa-download" aria-hidden="true"></i>Download PDF</a>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=file_save" />
+<a href="{{ base_path }}/files/resume.pdf" style="display:inline-flex; align-items:center; gap:6px; text-decoration:none;">
+  <span class="material-symbols-outlined">file_save</span>
+  <span>Download PDF</span>
+</a>
 
 Education
 ======
